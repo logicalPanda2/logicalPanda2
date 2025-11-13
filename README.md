@@ -1,16 +1,17 @@
-## Hi there 👋
+## It's good to see you 👋
 
-<!--
-**logicalPanda2/logicalPanda2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Marcel, a front-end developer based in Indonesia.
 
-Here are some ideas to get you started:
+Most of the time, I build front-end related projects. <!-- With [TODO add specializations]. -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To make those projects easier, I'm also learning UI/UX design, and use Figma for prototyping.
+
+Aside from that, I'm very interested in game development and things related to AI or Machine Learning.
+
+### Techs and Tools
+<!-- TODO repeat specializations -->
+
+### Relevant Links
+<!-- TODO add relevant links -->
+
+I look forward to working with you.
