@@ -1,6 +1,8 @@
 # It's good to see you 👋
 
-I'm Marcel, a front-end developer. I usually build various, web-related projects.
+I'm Marcel, a frontend developer. I usually build various, web-related projects.<br>
+I'm currently learning UI/UX design, and use Figma for prototyping.<br>
+I'm also very interested in game development and things related to AI or machine learning.<br>
 
 <table>
     <tr>
@@ -36,5 +38,3 @@ I'm Marcel, a front-end developer. I usually build various, web-related projects
         </td>
     </tr>
 </table>
-
-I'm also very interested in game development and things related to AI or machine learning.
