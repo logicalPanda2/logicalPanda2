@@ -1,4 +1,4 @@
-## It's good to see you 👋
+# It's good to see you 👋
 
 I'm Marcel, a front-end developer. I usually build various, web-related projects.
 
@@ -37,6 +37,4 @@ I'm Marcel, a front-end developer. I usually build various, web-related projects
     </tr>
 </table>
 
-I'm also very interested in `game development and things related to AI or machine learning.
-
-Check out my portfolio here: <!-- TODO add portfolio link -->
+I'm also very interested in game development and things related to AI or machine learning.
