@@ -43,3 +43,5 @@ In my free time, I usually try new things related to game development or AI / ma
         </td>
     </tr>
 </table>
+
+Check out my portfolio here: https://logicalpanda2.github.io
